@@ -2,7 +2,7 @@
 progetto igegneria del software aa:2021-22
 
 
-La repository contiene il flow da importare in Node-Red per poter visualizzare e modificare il progetto localmente. Seguire i passaggi indicati nel seguente link:
+La repository contiene il flow da importare in Node-Red per poter visualizzare e modificare il progetto localmente. Seguire i passaggi indicati nel seguente link per installare Node-Red localmente:
 
 
 https://nodered.org/docs/getting-started/local
