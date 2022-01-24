@@ -9,3 +9,5 @@ https://nodered.org/docs/getting-started/local
 
 
 Premere il pulsante accanto a "Deploy" in Node-Red, selezionare "Import" ed importare il flusso
+
+Importato il flusso, spuntare la casella "Use authentication" ed impostare come user "ditto" e come password "ditto"
